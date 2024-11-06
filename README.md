@@ -29,14 +29,18 @@ The Schematics
  
 The Board Layout
 
+![image](https://github.com/user-attachments/assets/6cc0aa45-0c8d-49d8-a8e3-198a56111089)
 
 
 
  
 The Board Front View
+![image](https://github.com/user-attachments/assets/a6c614a8-dce9-45b9-9123-98718b4d3eb6)
 
  
 The Board Back View
+![image](https://github.com/user-attachments/assets/87c58828-516a-4a8f-bdd1-b754db0078fc)
+
 
 LDR-Based Sunlight Monitoring
 The LDR is connected to the Arduino Nano to measure the ambient light intensity. When sunlight is intense enough, typically indicated by an analog voltage value crossing a predefined threshold, the system activates the relays to switch the heavy loads to solar power.
